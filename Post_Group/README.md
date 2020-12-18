@@ -27,11 +27,11 @@ We should have the final script now!
 
 ### Week 3 (21-3 jan)
 <<Holydays!>>
+
 1) 
 
 
 ### Week 4 (4-10 jan)
-Perform network analysis
 
 
 ### Week 5 (11-17 jan)

@@ -13,18 +13,22 @@ Francesco Guarnaccia, Gabriella Buosi, Edoardo Monaco, Luca dalla Gassa, Laura S
 
 
 ### Week 1 (7-13 dic)
-
-1) Network creation: "create the matrix"
-
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/2/20/Matrix-logo.svg/1200px-Matrix-logo.svg.png" width="350" title="hover text">
 </p>
+1) Network creation: "create the matrix"
+2) Run some initial correlation analysis, investigating witch linguistic feature in the post is correlated with the ones in the comments. 
 
 ### Week 2 (14-20 dic)
-Create the final structure of the graphs, add sentiment analysis
+1) Create the final structure of the graphs
+2) Add sentiment analysis as nodes attributes
+
+We should have the final script now! 
 
 ### Week 3 (21-3 jan)
 <<Holydays!>>
+1) 
+
 
 ### Week 4 (4-10 jan)
 Perform network analysis
